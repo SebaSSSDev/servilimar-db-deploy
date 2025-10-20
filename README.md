@@ -4,7 +4,7 @@ Este repositorio contiene los scripts y configuraciones necesarios para desplega
 
 ---
 
-## 🚀 Despliegue rápido
+## Despliegue rápido
 
 1. **Clonar el repositorio**
    ```bash
@@ -39,7 +39,7 @@ Este repositorio contiene los scripts y configuraciones necesarios para desplega
 
   - Contraseña: ex4men_db
 
-## 🧩 Scripts SQL
+## Scripts SQL
 
 Los archivos SQL están en la carpeta [`sql/`](./sql):
 
@@ -53,23 +53,14 @@ Los archivos SQL están en la carpeta [`sql/`](./sql):
 
 ---
 
-## 📘 Documentación
-
-El documento técnico en LaTeX se encuentra en [`docs/informe_servilimar.tex`](./docs/informe_servilimar.tex).
-
-Video explicativo del proceso:  
-👉 [YouTube - Implementación de LiMar DB](https://youtu.be/video-servilimar)
-
----
-
-## ⚖️ Licencia
+## Licencia
 
 Este proyecto está bajo la licencia **MIT**.  
 Consulta el archivo [LICENSE](./LICENSE) para más información.
 
 ---
 
-## 👥 Autores
+## Autores
 
 Proyecto académico desarrollado por:  
-**Nombre del estudiante** — Ingeniería de Sistemas, Universidad del Valle.
+**Sebastián Calvo Carvajal** — Ingeniería de Sistemas, Universidad del Valle.
